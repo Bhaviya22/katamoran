@@ -1,0 +1,5 @@
+ultralytics==8.3.203
+insightface==0.7
+onnxruntime-gpu
+opencv-python
+numpy
